@@ -21,7 +21,8 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
     There were a total of 30,765 5-stars in the vine category to 30,543 5-stars in the non-vine category.
     
-![five_star_count](https://user-images.githubusercontent.com/67697826/212341680-27a16a36-628b-445a-95b8-a88f0e2a7bdd.png)
+![five_star_count](https://user-images.githubusercontent.com/67697826/212343551-eebd41ca-4463-4085-83d3-da77906a08c3.png)
+
 
 ![five_star_unpaid](https://user-images.githubusercontent.com/67697826/212341728-5c7f9c96-2fd8-4ce9-9268-52b0f18029e7.png)
 

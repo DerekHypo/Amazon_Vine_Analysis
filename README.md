@@ -37,3 +37,4 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 ## Summary
 
+Further analysis would be need to review all 5-Star ratings for both Vine and Non-Vine members. Additionally, the use of other datasets could be used to verify or dispell the possibility of bias.

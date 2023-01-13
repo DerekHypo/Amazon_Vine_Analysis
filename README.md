@@ -11,7 +11,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 - How many Vine reviews and non-Vine reviews were there?
 
-    There were a total of 65581 vine reviews and 64968 non-vine reviews.
+    There were a total of 65,581 vine reviews and 64,968 non-vine reviews.
 
 ![total_count](https://user-images.githubusercontent.com/67697826/212340999-54e1b95b-4461-469c-9946-83b1c07ad2f6.png)
 
@@ -19,12 +19,20 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-    There were a total of 21,061 5-stars in the vine category to  5-stars in the non-vine category.
+    There were a total of 30,765 5-stars in the vine category to 30,543 5-stars in the non-vine category.
+    
+![five_star_count](https://user-images.githubusercontent.com/67697826/212341680-27a16a36-628b-445a-95b8-a88f0e2a7bdd.png)
+
+![five_star_unpaid](https://user-images.githubusercontent.com/67697826/212341728-5c7f9c96-2fd8-4ce9-9268-52b0f18029e7.png)
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-    The percentages for 5 star Vine reviews is 52.33% of vine reviews vs. 52.68% of non-vine reviews
+    The percentages for 5 star Vine reviews is 36.22% of vine reviews to 47.01% of non-vine reviews
+    
+![paid_percentage](https://user-images.githubusercontent.com/67697826/212342986-0e5f3c56-5ab6-4cd6-83e8-91e36ed4302e.png)
 
+![unpaid_percentage](https://user-images.githubusercontent.com/67697826/212343058-f8bc76b0-fb47-416c-b80a-85bacae90044.png)
 
 
 ## Summary
+
